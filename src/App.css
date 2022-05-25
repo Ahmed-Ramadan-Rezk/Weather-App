@@ -1,0 +1,56 @@
+/* Used Colors */
+:root {
+  --white_color: #FFF;
+  --lightgrey_color: #f3f3f3;
+  --grey_color: #d3d3d3;
+  --black_color: #000;
+  --black3_color: #333;
+  --black2_color: #222;
+  --purple_color: #3f51b5;
+  --sun_color: #ffa716;
+}
+
+/* Normalizing */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
+
+.weather_app {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+}
+
+.dark_mode {
+  background-color: var(--black_color);
+  color: var(--white_color);
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.dark_mode_left {
+  background-color: var(--black2_color) !important;
+  color: var(--white_color) !important;
+}
+
+.dark_mode_right {
+  background-color: var(--black3_color) !important
+}
+
+.dark_mode_right_card {
+  background-color: var(--black2_color) !important;
+  color: var(--white_color) !important;
+}
+
+.white_text {color: white !important}
+.black_text {color: var(--black_color) !important}

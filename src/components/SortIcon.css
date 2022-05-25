@@ -1,0 +1,26 @@
+ul {
+    list-style: none;
+    -webkit-transform: skew(0,25deg);
+    -moz-transform: skew(0,25deg);
+    -ms-transform: skew(0,25deg);
+    -o-transform: skew(0,25deg);
+    transform: skew(0,25deg);
+}
+
+.sort_icon {display: inline-block; margin: 20px 11px 0 0;}
+
+.sort_icon li {
+    background-color: var(--purple_color);
+    width: 2px;
+    display: inline-block;
+    margin-right: 2px;
+    font-size: 15px;
+}
+
+.sort_icon li:nth-child(1) {height: 8px}
+
+.sort_icon li:nth-child(2) {height: 10px}
+
+.sort_icon li:nth-child(3) {height: 12px}
+
+.sort_icon li:nth-child(4) {height: 14px; margin: 0;}
