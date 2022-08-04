@@ -3,6 +3,7 @@
 This website helps you get information about the weather today & 7 days forecast.
 
 Features: 
+
   Get an image of your city depending on your (Time zone).
   
   Get icons of the Week's highlights & Current highlights.
