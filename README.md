@@ -16,11 +16,19 @@ Features:
   
   
 Expectation of:
-  7 days forecast,
-  UV index,
-  Temperature,
-  Rainfall,
-  Humidity,
-  Wind speed,
-  Sunrise & Sunset, and
+
+  7 days forecast
+  
+  UV index
+  
+  Temperature
+  
+  Rainfall
+  
+  Humidity
+  
+  Wind speed
+  
+  Sunrise & Sunset
+  
   Visibility
