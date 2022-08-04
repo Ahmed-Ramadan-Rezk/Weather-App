@@ -9,11 +9,11 @@ Features:
   Dark mode & White Mode.
   
 Expectation of:
-  7 days forecast
-  UV index
-  Temperature
-  Rainfall
-  Humidity
-  Wind speed
-  Sunrise & Sunset
+  7 days forecast,
+  UV index,
+  Temperature,
+  Rainfall,
+  Humidity,
+  Wind speed,
+  Sunrise & Sunset, and
   Visibility
